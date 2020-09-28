@@ -5,8 +5,10 @@
     "**/test/**/*.ts",
     "**/src/**/*.tsx",
     ".eslintrc.js",
+    ".lintstagedrc.js",
     "jest.config.js",
     "babel.config.js",
-    "husky.config.js"
+    "husky.config.js",
+    "tailwind.config.js"
   ]
 }
